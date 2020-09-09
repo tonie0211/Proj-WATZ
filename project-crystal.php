@@ -37,10 +37,10 @@ $pageName = 'project';  // 這裡放你的pagename
     }
 
     .thunder {
-        width: 382px;
-        height: 710px;
+        width: 309px;
+        height: 558px;
         position: absolute;
-        left: 121px;
+        left: 90px;
 
     }
 
@@ -267,7 +267,7 @@ $pageName = 'project';  // 這裡放你的pagename
         /* margin-top: 100px; */
         position: absolute;
         z-index: 2;
-        bottom: 10%;
+        bottom: 15%;
     }
 
     .caketext h4 {
